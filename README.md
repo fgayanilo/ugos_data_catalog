@@ -1,2 +1,4 @@
 # NAS UGOS Data Catalog Issue Tracking
-National Academies of Sciences (NAS) UGOS Data Catalogue issue tracking.
+The Understanding Gulf Ocean Systems (UGOS) Initiative is part of the Gulf Research Program (GRP) focused on improving the skill of sustained continuous operational forecasts, and associated physical understanding, of ocean dynamics for the reduction of risks in offshore energy exploration and production in the Gulf of Mexico (GoM) where deep-water drilling and production occur and/or anticipated. UGOS stemmed from the 2018 NASEM consensus study Understanding and Predicting the GoM Loop Current. Since 2018, UGOS has supported research related to ocean observations and modeling in the GoM to improve understanding and forecasting of the Loop Current dynamics.
+
+In support of the modeling efforts, UGOS is developing the [**UGOS Data Catalogue**](https://ugos.info) to direct users and modelers, the data used in the development and execution of the hydrodynamic models. This is an issues-only repository for the UGOS data catalog.
